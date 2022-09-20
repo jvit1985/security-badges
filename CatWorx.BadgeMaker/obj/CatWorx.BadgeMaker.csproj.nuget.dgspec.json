@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
+    "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.Badgemaker\\CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
+    "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.Badgemaker\\CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.Badgemaker\\CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectPath": "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.Badgemaker\\CatWorx.BadgeMaker.csproj",
         "packagesPath": "C:\\Users\\jvit1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.BadgeMaker\\obj\\",
+        "outputPath": "C:\\Users\\jvit1\\Desktop\\projects\\CatWorx.Badgemaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jvit1\\AppData\\Roaming\\NuGet\\NuGet.Config"
